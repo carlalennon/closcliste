@@ -1,0 +1,21 @@
+{
+    "danta": {
+        "1": {
+            "poet": "Cailtín Maude",
+            "title": "Géibheann",
+            "poem": "Ainmhí me\n ainmhí alta\n as na teochreasa\n a bhfuil cliú agus cáil\n ar mo scéimh\n \n Chroithfinn crainnte na coille\n tráth\n le mo gháir\n \n ach anois\n luínn síós\n agus breathnaím tri leathshúil\n ar an gcrann aonraic sin thall\n \n tagann na céadta daoine\n chuile lá\n \n a dhéanfadh rud ar bith\n dom\n ach mé a ligean amach.\n"
+        },
+
+        "2": {
+            "poet": "Liam Ó Flaithearta",
+            "title": "Na Blátha Craige",
+            "poem": "A dúirt mé leis na blátha:\n 'Nach suarach an áit a fuair sibh\n le bheith ag déanamh aeir\n Teanta suas anseo le bruach na haille,\n Gan fúibh ach an cloch ghlas\n Agus salachar na n-éan,\n áit bhradach, lán le ceo\n Agus farraige cháite,\n Ní scairteann grian anseo\n Ó Luan go Satharn\n Le gliondar a chur oraibh'\n A dúirt na blatha craige:\n 'Is cuma linn, a stór,\n Táimíd faoi dhraíocht\n ag ceol na farraige.'\n"
+        },
+
+        "3": {
+            "poet": "Máirtín Ó Direáin",
+            "title": "An tEarrach Thiar",
+            "poem": "Fear ag glanadh cré\n De ghimseán spáide\n Sa gciúnas séimh\n I mbrothall lae:\n Binn an fhuaim\n San Earrach thiar.\n \n Fear ag caitheamh\n Cliabh dhá dhroim,\n Is an fheamainn dhearg\n Ag lonrú\n i I dtaitneamh gréine\n Ar dhuirling bháin:\n Niamhrach an radharc\n San Earrach thiar\n \n Mná i locháin\n In íochtar diaidh-thrá,\n A gcótaí craptha,\n Scáilí thíos fúthu:\n Támh-radharc síothach\n San Earrach thiar.\n \n Toll-bhuillí fanna \n A maidí rámha,\n Currach lán éisc\n ag teacht chun cladaigh\n Ar órmhuir mhall\n I ndeireadh lae;\n San Earrach thiar.\n"
+        }
+    }
+}
